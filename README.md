@@ -24,7 +24,7 @@ TBD.
 ## Workshop Materials
 
 - We'll work in a dedicated [DMX](https://dmx.readthedocs.io/en/latest/user.html) instance to connect us and to the develop the contents during the workshop
-- A link to the instance will be available here latest on 17th of may, 11pm CEST for preliminary studies and the raising of initial questions
+- A link to the all initial workshop contents will be made available via a link here in between the 15th and 17th of may, 11pm CEST latest.
 
 ## Participation
 
