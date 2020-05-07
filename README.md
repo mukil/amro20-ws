@@ -10,10 +10,10 @@ We want to map the core values associated with openness and freedom, like it hap
 
 ## Outline: 120min Workshop
 
-30mins: Overview and Q&A on sustainability conceptions and highlighting of certain sustainability criteria
-15mins: Breakout talks with 3-5 persons in groups on 1 sustainability criteria in relation to core values of F/LOSS
-30mins: 1 spokesperson of the breakout session reports in 3mins and each group has 2mins for q&a (overall 5 minutes)
-30mins: Open exchange about decisions, questions, actions and wishes
+*  Part 1 (30mins): Overview and Q&A on sustainability conceptions and highlighting of certain sustainability criteria
+*  Part 2 (15mins): Breakout talks with 3-5 persons in groups on 1 sustainability criteria in relation to core values of F/LOSS
+*  Part 3 (30mins): 1 spokesperson of the breakout session reports in 3mins and each group has 2mins for q&a (overall 5 minutes)
+*  Part 4 (30mins): Open exchange about decisions, questions, actions and wishes
 
 Goal of the workshop is to interactively generate associative and navigable data models that describe the types of relations F/LOSS and sustainability communities will most probably continue to build.
 
@@ -23,7 +23,7 @@ TBD.
 
 ## Workshop Materials
 
-- We'll work in a dedicated DMX instance to connect us and to the develop the contents during the workshop
+- We'll work in a dedicated [DMX](https://dmx.readthedocs.io/en/latest/user.html) instance to connect us and to the develop the contents during the workshop
 - A link to the instance will be available here latest on 17th of may, 11pm CEST for preliminary studies and the raising of initial questions
 
 ## Participation
