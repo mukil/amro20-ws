@@ -4,9 +4,18 @@ An ideation workshop on mapping sustainability conceptions with free and open so
 
 20th-23th of May, "Of Whirlpools and Tornadoes", [AMRO Festival](https://www.radical-openness.org/en)
 
+## Website / Work Environment
+
+The workshop will be faciliated using a BigBlueButton workshop room and we use the DMX platform for collaboration and knowledge management to document our discussions and some preliminary results.
+
+To prepare for the workshop, the DMX installation is now available at:
+
+[https://vocab.sustainability.lol/systems.dmx.webclient/#/topicmap/4130](https://vocab.sustainability.lol/systems.dmx.webclient/#/topicmap/4130)
+
+
 ## Short Description
 
-We want to map the core values associated with openness and freedom, like it happens to be practiced in free and open source software communities, with some sustainability conceptions to explore, describe and discuss the relations of values.
+This workshop wants to introduce, break-apart and map the relations between core values associated with openness and freedom - like it happens to be practiced in free and open source software communities - with some sustainability conceptions to explore, describe and discuss the relations of values.
 
 ## Outline: 120min Workshop
 
